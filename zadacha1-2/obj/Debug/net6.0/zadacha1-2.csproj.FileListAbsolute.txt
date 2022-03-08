@@ -1,0 +1,15 @@
+C:\Users\Piy\Desktop\massive sem\zadacha1-2\bin\Debug\net6.0\zadacha1-2.exe
+C:\Users\Piy\Desktop\massive sem\zadacha1-2\bin\Debug\net6.0\zadacha1-2.deps.json
+C:\Users\Piy\Desktop\massive sem\zadacha1-2\bin\Debug\net6.0\zadacha1-2.runtimeconfig.json
+C:\Users\Piy\Desktop\massive sem\zadacha1-2\bin\Debug\net6.0\zadacha1-2.dll
+C:\Users\Piy\Desktop\massive sem\zadacha1-2\bin\Debug\net6.0\zadacha1-2.pdb
+C:\Users\Piy\Desktop\massive sem\zadacha1-2\obj\Debug\net6.0\zadacha1-2.csproj.AssemblyReference.cache
+C:\Users\Piy\Desktop\massive sem\zadacha1-2\obj\Debug\net6.0\zadacha1-2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Piy\Desktop\massive sem\zadacha1-2\obj\Debug\net6.0\zadacha1-2.AssemblyInfoInputs.cache
+C:\Users\Piy\Desktop\massive sem\zadacha1-2\obj\Debug\net6.0\zadacha1-2.AssemblyInfo.cs
+C:\Users\Piy\Desktop\massive sem\zadacha1-2\obj\Debug\net6.0\zadacha1-2.csproj.CoreCompileInputs.cache
+C:\Users\Piy\Desktop\massive sem\zadacha1-2\obj\Debug\net6.0\zadacha1-2.dll
+C:\Users\Piy\Desktop\massive sem\zadacha1-2\obj\Debug\net6.0\refint\zadacha1-2.dll
+C:\Users\Piy\Desktop\massive sem\zadacha1-2\obj\Debug\net6.0\zadacha1-2.pdb
+C:\Users\Piy\Desktop\massive sem\zadacha1-2\obj\Debug\net6.0\zadacha1-2.genruntimeconfig.cache
+C:\Users\Piy\Desktop\massive sem\zadacha1-2\obj\Debug\net6.0\ref\zadacha1-2.dll

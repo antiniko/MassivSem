@@ -1,0 +1,15 @@
+C:\Users\Piy\Desktop\massive sem\seminar\obj\Debug\net6.0\seminar.csproj.AssemblyReference.cache
+C:\Users\Piy\Desktop\massive sem\seminar\obj\Debug\net6.0\seminar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Piy\Desktop\massive sem\seminar\obj\Debug\net6.0\seminar.AssemblyInfoInputs.cache
+C:\Users\Piy\Desktop\massive sem\seminar\obj\Debug\net6.0\seminar.AssemblyInfo.cs
+C:\Users\Piy\Desktop\massive sem\seminar\obj\Debug\net6.0\seminar.csproj.CoreCompileInputs.cache
+C:\Users\Piy\Desktop\massive sem\seminar\bin\Debug\net6.0\seminar.exe
+C:\Users\Piy\Desktop\massive sem\seminar\bin\Debug\net6.0\seminar.deps.json
+C:\Users\Piy\Desktop\massive sem\seminar\bin\Debug\net6.0\seminar.runtimeconfig.json
+C:\Users\Piy\Desktop\massive sem\seminar\bin\Debug\net6.0\seminar.dll
+C:\Users\Piy\Desktop\massive sem\seminar\bin\Debug\net6.0\seminar.pdb
+C:\Users\Piy\Desktop\massive sem\seminar\obj\Debug\net6.0\seminar.dll
+C:\Users\Piy\Desktop\massive sem\seminar\obj\Debug\net6.0\refint\seminar.dll
+C:\Users\Piy\Desktop\massive sem\seminar\obj\Debug\net6.0\seminar.pdb
+C:\Users\Piy\Desktop\massive sem\seminar\obj\Debug\net6.0\seminar.genruntimeconfig.cache
+C:\Users\Piy\Desktop\massive sem\seminar\obj\Debug\net6.0\ref\seminar.dll
